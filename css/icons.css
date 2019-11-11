@@ -1,0 +1,145 @@
+<style>
+.avatar_dofus {width: 124px; height: 122px; position: absolute; top: 0; left: 34px;}
+.acc_avatar {margin: 5px 0 0; position: relative; text-align: center; width: 200px;}
+.acc_avatar img {margin-left: 9px;}
+.acc_avatar img {margin-top: 13px;}
+.shopicon li{position: relative;background: url("./images/shop/sprite.png") no-repeat top;width: 35px;height: 35px;display:inline-block;vertical-align:middle;margin-left:-8px;}
+.shopicon .shopiconogrin {background-position: top; background-size : 70%;}
+.shopicon2 li{
+	position: relative;
+	background: url("./images/shop/sprite2.png") no-repeat;
+	width: 20px;
+	height: 20px;}
+	
+.shopicon2 .Neutral {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -96px -15px;
+	background-size : 630%;
+	}
+.shopicon2 .MP {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -97px -50px;
+	background-size : 625%;
+	}
+.shopicon2 .Chance {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -92px;
+	background-size : 650%;
+	}
+.shopicon2 .Range {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -135px;
+	background-size : 650%;
+	}
+.shopicon2 .Agility {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -172px;
+	background-size : 650%;
+	}
+.shopicon2 .Initiative {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -210px;
+	background-size : 645%;
+	}
+.shopicon2 .AP {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -250px;
+	background-size : 650%;
+	}
+	.shopicon2 .Prospecting {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -288px;
+	background-size : 650%;
+	}
+.shopicon2 .Vitality {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -330px;
+	background-size : 650%;
+	}
+.shopicon2 .Wisdom {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -370px;
+	background-size : 650%;
+	}
+.shopicon2 .Intelligence {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -407px;
+	background-size : 650%;
+	}
+.shopicon2 .Strenght {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -445px;
+	background-size : 650%;
+	}
+.shopicon2 .Dodge {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -485px;
+	background-size : 650%;
+	}
+.shopicon2 .Summons {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -525px;
+	background-size : 650%;
+	}
+.shopicon2 .Tackle {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -565px;
+	background-size : 650%;
+	}
+.shopicon2 .Critical {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -608px;
+	background-size : 650%;
+	}
+.shopicon2 .Heal {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -996px;
+	background-size : 650%;
+	}
+.shopicon2 .MPLossReduction {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -1048px;
+	background-size : 650%;
+	}
+.shopicon2 .APLossReduction {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -1097px;
+	background-size : 650%;
+	}
+.shopicon2 .Power {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -1144px;
+	background-size : 650%;
+	}
+.shopicon2 .MPReduction {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -1382px;
+	background-size : 650%;
+	}
+.shopicon2 .APReduction {
+	vertical-align:middle;
+	display:inline-block;
+	background-position: -100px -1338px;
+	background-size : 650%;
+	}</style>
